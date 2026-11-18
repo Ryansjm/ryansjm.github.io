@@ -1,0 +1,24 @@
+{
+	"songs": [
+		["Foreplay", "Casanova", [196, 120, 230]],
+		["Aye Papi", "Casanova", [196, 120, 230]],
+		["Sex", "novaBed", [196, 120, 230]],
+		["Sno Bunnie", "kayler", [196, 120, 230]],
+		["Machina", "jasmine", [196, 120, 230]]
+	],
+
+	"weekCharacters": [
+		"Casanova",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Baddies Reloaded",
+	"weekBefore": "tutorial",
+	"weekName": "Baddies Reloaded",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
